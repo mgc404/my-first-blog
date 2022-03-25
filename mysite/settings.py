@@ -8,10 +8,7 @@ https://docs.djangoproject.com/en/3.2/topics/settings/
 
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/3.2/ref/settings/
-myvenv\Scripts\activate
-Python manage.py runserver
-python manage.py startapp blog
-python manage.py makemigrations blog
+
 """
 import os
 from pathlib import Path

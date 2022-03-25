@@ -1,0 +1,4 @@
+myvenv\Scripts\activate
+Python manage.py runserver
+python manage.py startapp blog
+python manage.py makemigrations blog
